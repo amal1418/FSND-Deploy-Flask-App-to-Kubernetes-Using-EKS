@@ -40,8 +40,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default:
-    Description: amal1418
+    Default: amal1418
+    Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub username or organization
